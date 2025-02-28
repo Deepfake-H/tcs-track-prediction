@@ -56,3 +56,5 @@ conda env export --no-builds | grep -v "^prefix: " > environment.yml
 watch -n 1 nvidia-smi
 ```
 
+
+## If you need to use code, model or data, please cite the paper "Anomaly-Aware Tropical Cyclone Track Prediction Using Multi-Scale Generative Adversarial Networks".
